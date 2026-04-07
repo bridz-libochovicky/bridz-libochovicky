@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Přihlášky – Bridžový klub Libochovičky</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="logo">
+      <div class="logo-title">Bridžový klub Libochovičky</div>
+      <div class="logo-sub">Klub přátel bridže</div>
+    </div>
+    <nav>
+      <a href="index.html">Úvod</a>
+      <a href="prihlasky.html" class="active">Přihlášky</a>
+      <a href="vysledky.html">Výsledky</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <h1 class="page-title">Přihlášky na turnaje</h1>
+  <div class="page-title-rule"></div>
+
+  <p class="sheet-note">
+    Pro přihlášení na turnaj vyberte "Ano" v řádku s vaším jménem ve sloupci 
+    příslušného data. Pokud vaše jméno v tabulce ještě není, jednoduše je zapište na konec seznamu do volného řádku.
+    Konání turnaje bude potvrzeno emailem v případě dostatečného počtu hráčů.
+  </p>
+
+  <!--
+    TABULKA PŘIHLÁŠEK:
+    Postup jak vložit vaši Google tabulku:
+    1. Otevřete tabulku v Google Sheets.
+    2. Klikněte na Soubor → Sdílet → Publikovat na webu.
+    3. Vyberte "Celý dokument" a formát "Webová stránka", klikněte "Publikovat".
+    4. Zkopírujte zobrazený odkaz.
+    5. Nahraďte hodnotu src níže tímto odkazem.
+
+    POZOR: Aby mohli hráči tabulku přímo upravovat (zaškrtávat), 
+    musí být tabulka sdílena jako "kdokoliv s odkazem může upravovat".
+    V tom případě vložte odkaz na sdílení (ne publikování) takto:
+    src="https://docs.google.com/spreadsheets/d/VASE_ID/edit?usp=sharing&rm=minimal"
+  -->
+  <div class="sheet-container">
+    <iframe
+      src="https://docs.google.com/spreadsheets/d/143Cqg4IDIT2AcCnYSt8G2qKkgNsCs-oFmTmgrZjfOBM/edit?usp=sharing&rm=minimal"
+      frameborder="0">
+    </iframe>
+  </div>
+</main>
+
+<footer>
+  &copy; Bridžový klub Libochovičky
+</footer>
+
+</body>
+</html>
