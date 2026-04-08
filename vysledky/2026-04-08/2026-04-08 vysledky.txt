@@ -1,0 +1,369 @@
+Klub Kladno-Kralupy   Libochovièky 08.04.2026
+
+2 Table 30 Board Howell Movement  
+Director: Zdenek  Scorer: Zdenek   Received 60 of 60 scores.
+==================================================================
+Rank Pair Names [OVERALL RANKS]                       Bds    XImpC
+==================================================================
+  1    1  Jiri Cervenka & Zdenek Muzik                 30    70,00
+  2    4  Josef Novotný & Jiri Zerzan                  30     6,00
+  3    3  Jan Kala & Miroslav Kyn                      30   -32,00
+  4    2  Jolana Hejduková & Zdenek Lastovièka         30   -44,00
+==================================================================
+(printed 22:47:18 08.04.2026 PairsScorer7.3.6(c) JAS
+
+ =====================================================
+ BOARD 1                                              
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  4S-2      E          100           -9       9  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  2Hx=      N          470            9      -9  Jolana Hejduková & Zdenek Lastovièka  Jan Kala & Miroslav Kyn               
+ =====================================================
+ =====================================================
+ BOARD 2                                              
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  4S-3      E          150            3      -3  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  4S-1      E           50           -3       3  Jolana Hejduková & Zdenek Lastovièka  Jan Kala & Miroslav Kyn               
+ =====================================================
+ =====================================================
+ BOARD 3                                              
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  3S+2      W               200      10     -10  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  4S+1      W               650     -10      10  Jolana Hejduková & Zdenek Lastovièka  Jan Kala & Miroslav Kyn               
+ =====================================================
+ =====================================================
+ BOARD 4                                              
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  4S-4      W          400            3      -3  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  3C-3      W          300           -3       3  Jolana Hejduková & Zdenek Lastovièka  Jan Kala & Miroslav Kyn               
+ =====================================================
+ =====================================================
+ BOARD 5                                              
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  5C-1      N               100      -9       9  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  5Dx-2     W          300            9      -9  Jolana Hejduková & Zdenek Lastovièka  Jan Kala & Miroslav Kyn               
+ =====================================================
+ =====================================================
+ BOARD 6                                              
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  4H+3      S          510          -11      11  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  6H+1      S         1010           11     -11  Jolana Hejduková & Zdenek Lastovièka  Jan Kala & Miroslav Kyn               
+ =====================================================
+ =====================================================
+ BOARD 7                                              
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  2NT-1     E          100            0       0  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  2S-1      W          100            0       0  Jolana Hejduková & Zdenek Lastovièka  Jan Kala & Miroslav Kyn               
+ =====================================================
+ =====================================================
+ BOARD 8                                              
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  3NT=      W               400       1      -1  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  3NT+1     E               430      -1       1  Jolana Hejduková & Zdenek Lastovièka  Jan Kala & Miroslav Kyn               
+ =====================================================
+ =====================================================
+ BOARD 9                                              
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  4H-1      E          100            9      -9  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  5Dx-2     S               300      -9       9  Jolana Hejduková & Zdenek Lastovièka  Jan Kala & Miroslav Kyn               
+ =====================================================
+ =====================================================
+ BOARD 10                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  4S+1      W               650     -10      10  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  2S+2      W               170      10     -10  Jolana Hejduková & Zdenek Lastovièka  Jan Kala & Miroslav Kyn               
+ =====================================================
+ =====================================================
+ BOARD 11                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  2S=       S          110            0       0  Josef Novotný & Jiri Zerzan           Jolana Hejduková & Zdenek Lastovièka  
+  3   1  2S=       S          110            0       0  Jan Kala & Miroslav Kyn               Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 12                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  2H+1      W               140       0       0  Josef Novotný & Jiri Zerzan           Jolana Hejduková & Zdenek Lastovièka  
+  3   1  3H=       E               140       0       0  Jan Kala & Miroslav Kyn               Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 13                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  4H+2      S          680            0       0  Josef Novotný & Jiri Zerzan           Jolana Hejduková & Zdenek Lastovièka  
+  3   1  4H+2      S          680            0       0  Jan Kala & Miroslav Kyn               Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 14                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  4S-1      E           50            3      -3  Josef Novotný & Jiri Zerzan           Jolana Hejduková & Zdenek Lastovièka  
+  3   1  1NT-1     S                50      -3       3  Jan Kala & Miroslav Kyn               Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 15                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  4H=       S          620           10     -10  Josef Novotný & Jiri Zerzan           Jolana Hejduková & Zdenek Lastovièka  
+  3   1  2H+2      S          170          -10      10  Jan Kala & Miroslav Kyn               Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 16                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  2S-1      N                50       3      -3  Josef Novotný & Jiri Zerzan           Jolana Hejduková & Zdenek Lastovièka  
+  3   1  3S-3      N               150      -3       3  Jan Kala & Miroslav Kyn               Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 17                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  3C-3      W          150            3      -3  Josef Novotný & Jiri Zerzan           Jolana Hejduková & Zdenek Lastovièka  
+  3   1  4H-1      W           50           -3       3  Jan Kala & Miroslav Kyn               Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 18                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  4H+1      E               450       0       0  Josef Novotný & Jiri Zerzan           Jolana Hejduková & Zdenek Lastovièka  
+  3   1  4H+1      E               450       0       0  Jan Kala & Miroslav Kyn               Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 19                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  4H+1      S          450           11     -11  Josef Novotný & Jiri Zerzan           Jolana Hejduková & Zdenek Lastovièka  
+  3   1  5H-1      N                50     -11      11  Jan Kala & Miroslav Kyn               Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 20                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  3D+2      N          150            8      -8  Josef Novotný & Jiri Zerzan           Jolana Hejduková & Zdenek Lastovièka  
+  3   1  3NT-2     S               200      -8       8  Jan Kala & Miroslav Kyn               Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 21                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  4S+1      N          650            0       0  Josef Novotný & Jiri Zerzan           Jan Kala & Miroslav Kyn               
+  1   2  4S+1      N          650            0       0  Jiri Cervenka & Zdenek Muzik          Jolana Hejduková & Zdenek Lastovièka  
+ =====================================================
+ =====================================================
+ BOARD 22                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  2S=       N          110           -2       2  Josef Novotný & Jiri Zerzan           Jan Kala & Miroslav Kyn               
+  1   2  2S+2      S          170            2      -2  Jiri Cervenka & Zdenek Muzik          Jolana Hejduková & Zdenek Lastovièka  
+ =====================================================
+ =====================================================
+ BOARD 23                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  2NT+2     W               180      -1       1  Josef Novotný & Jiri Zerzan           Jan Kala & Miroslav Kyn               
+  1   2  1NT+2     W               150       1      -1  Jiri Cervenka & Zdenek Muzik          Jolana Hejduková & Zdenek Lastovièka  
+ =====================================================
+ =====================================================
+ BOARD 24                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  2NT+1     S          150           -7       7  Josef Novotný & Jiri Zerzan           Jan Kala & Miroslav Kyn               
+  1   2  3NT+2     S          460            7      -7  Jiri Cervenka & Zdenek Muzik          Jolana Hejduková & Zdenek Lastovièka  
+ =====================================================
+ =====================================================
+ BOARD 25                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  3NT+1     E               630       1      -1  Josef Novotný & Jiri Zerzan           Jan Kala & Miroslav Kyn               
+  1   2  3NT+2     E               660      -1       1  Jiri Cervenka & Zdenek Muzik          Jolana Hejduková & Zdenek Lastovièka  
+ =====================================================
+ =====================================================
+ BOARD 26                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  4H-1      S               100       0       0  Josef Novotný & Jiri Zerzan           Jan Kala & Miroslav Kyn               
+  1   2  4H-1      S               100       0       0  Jiri Cervenka & Zdenek Muzik          Jolana Hejduková & Zdenek Lastovièka  
+ =====================================================
+ =====================================================
+ BOARD 27                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  4S-2      E          100            0       0  Josef Novotný & Jiri Zerzan           Jan Kala & Miroslav Kyn               
+  1   2  4S-2      E          100            0       0  Jiri Cervenka & Zdenek Muzik          Jolana Hejduková & Zdenek Lastovièka  
+ =====================================================
+ =====================================================
+ BOARD 28                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  4S=       N          620            0       0  Josef Novotný & Jiri Zerzan           Jan Kala & Miroslav Kyn               
+  1   2  4S=       S          620            0       0  Jiri Cervenka & Zdenek Muzik          Jolana Hejduková & Zdenek Lastovièka  
+ =====================================================
+ =====================================================
+ BOARD 29                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  3Sx-1     E          200            0       0  Josef Novotný & Jiri Zerzan           Jan Kala & Miroslav Kyn               
+  1   2  4S-2      E          200            0       0  Jiri Cervenka & Zdenek Muzik          Jolana Hejduková & Zdenek Lastovièka  
+ =====================================================
+ =====================================================
+ BOARD 30                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  3NT=      W               400     -10      10  Josef Novotný & Jiri Zerzan           Jan Kala & Miroslav Kyn               
+  1   2  1NT-1     W           50           10     -10  Jiri Cervenka & Zdenek Muzik          Jolana Hejduková & Zdenek Lastovièka  
+ =====================================================
+
+==============================================================================================
+PAIR 1 JIRI CERVENKA & ZDENEK MUZIK               
+Klub Kladno-Kralupy   Libochovièky 08.04.2026 Session 1  Section A                             
+XImps/Comparisons Factored 70       Session Rank 1  
+==============================================================================================
+Bd Vul Dir Contract By Lead Score  XImps  /Round   Opps
+ 1 -    EW  4S-2     E       -100      9      13   Josef Novotný & Jiri Zerzan
+ 2 NS   EW  4S-3     E       -150     -3
+ 3 EW   EW  3S+2     W        200    -10
+ 4 All  EW  4S-4     W       -400     -3
+ 5 NS   EW  5C-1     N        100      9
+ 6 EW   EW  4H+3     S       -510     11
+ 7 All  EW  2NT-1    E       -100      0
+ 8 -    EW  3NT=     W        400     -1
+ 9 EW   EW  4H-1     E       -100     -9
+10 All  EW  4S+1     W        650     10
+11 -    EW  2S=      S       -110      0      38   Jan Kala & Miroslav Kyn
+12 NS   EW  3H=      E        140      0
+13 All  EW  4H+2     S       -680      0
+14 -    EW  1NT-1    S         50      3
+15 NS   EW  2H+2     S       -170     10
+16 EW   EW  3S-3     N        150      3
+17 -    EW  4H-1     W        -50      3
+18 NS   EW  4H+1     E        450      0
+19 EW   EW  5H-1     N         50     11
+20 All  EW  3NT-2    S        200      8
+21 NS   NS  4S+1     N        650      0      19   Jolana Hejduková & Zdenek Lastovièka
+22 EW   NS  2S+2     S        170      2
+23 All  NS  1NT+2    W       -150      1
+24 -    NS  3NT+2    S        460      7
+25 EW   NS  3NT+2    E       -660     -1
+26 All  NS  4H-1     S       -100      0
+27 -    NS  4S-2     E        100      0
+28 NS   NS  4S=      S        620      0
+29 All  NS  4S-2     E        200      0
+30 -    NS  1NT-1    W         50     10
+==============================================================================================
+PAIR 2 JOLANA HEJDUKOVÁ & ZDENEK LASTOVIÈKA       
+Klub Kladno-Kralupy   Libochovièky 08.04.2026 Session 1  Section A                             
+XImps/Comparisons Factored -44      Session Rank 4  
+==============================================================================================
+Bd Vul Dir Contract By Lead Score  XImps  /Round   Opps
+ 1 -    NS  2Hx=     N        470      9      13   Jan Kala & Miroslav Kyn
+ 2 NS   NS  4S-1     E         50     -3
+ 3 EW   NS  4S+1     W       -650    -10
+ 4 All  NS  3C-3     W        300     -3
+ 5 NS   NS  5Dx-2    W        300      9
+ 6 EW   NS  6H+1     S       1010     11
+ 7 All  NS  2S-1     W        100      0
+ 8 -    NS  3NT+1    E       -430     -1
+ 9 EW   NS  5Dx-2    S       -300     -9
+10 All  NS  2S+2     W       -170     10
+11 -    EW  2S=      S       -110      0     -38   Josef Novotný & Jiri Zerzan
+12 NS   EW  2H+1     W        140      0
+13 All  EW  4H+2     S       -680      0
+14 -    EW  4S-1     E        -50     -3
+15 NS   EW  4H=      S       -620    -10
+16 EW   EW  2S-1     N         50     -3
+17 -    EW  3C-3     W       -150     -3
+18 NS   EW  4H+1     E        450      0
+19 EW   EW  4H+1     S       -450    -11
+20 All  EW  3D+2     N       -150     -8
+21 NS   EW  4S+1     N       -650      0     -19   Jiri Cervenka & Zdenek Muzik
+22 EW   EW  2S+2     S       -170     -2
+23 All  EW  1NT+2    W        150     -1
+24 -    EW  3NT+2    S       -460     -7
+25 EW   EW  3NT+2    E        660      1
+26 All  EW  4H-1     S        100      0
+27 -    EW  4S-2     E       -100      0
+28 NS   EW  4S=      S       -620      0
+29 All  EW  4S-2     E       -200      0
+30 -    EW  1NT-1    W        -50    -10
+==============================================================================================
+PAIR 3 JAN KALA & MIROSLAV KYN                    
+Klub Kladno-Kralupy   Libochovièky 08.04.2026 Session 1  Section A                             
+XImps/Comparisons Factored -32      Session Rank 3  
+==============================================================================================
+Bd Vul Dir Contract By Lead Score  XImps  /Round   Opps
+ 1 -    EW  2Hx=     N       -470     -9     -13   Jolana Hejduková & Zdenek Lastovièka
+ 2 NS   EW  4S-1     E        -50      3
+ 3 EW   EW  4S+1     W        650     10
+ 4 All  EW  3C-3     W       -300      3
+ 5 NS   EW  5Dx-2    W       -300     -9
+ 6 EW   EW  6H+1     S      -1010    -11
+ 7 All  EW  2S-1     W       -100      0
+ 8 -    EW  3NT+1    E        430      1
+ 9 EW   EW  5Dx-2    S        300      9
+10 All  EW  2S+2     W        170    -10
+11 -    NS  2S=      S        110      0     -38   Jiri Cervenka & Zdenek Muzik
+12 NS   NS  3H=      E       -140      0
+13 All  NS  4H+2     S        680      0
+14 -    NS  1NT-1    S        -50     -3
+15 NS   NS  2H+2     S        170    -10
+16 EW   NS  3S-3     N       -150     -3
+17 -    NS  4H-1     W         50     -3
+18 NS   NS  4H+1     E       -450      0
+19 EW   NS  5H-1     N        -50    -11
+20 All  NS  3NT-2    S       -200     -8
+21 NS   EW  4S+1     N       -650      0      19   Josef Novotný & Jiri Zerzan
+22 EW   EW  2S=      N       -110      2
+23 All  EW  2NT+2    W        180      1
+24 -    EW  2NT+1    S       -150      7
+25 EW   EW  3NT+1    E        630     -1
+26 All  EW  4H-1     S        100      0
+27 -    EW  4S-2     E       -100      0
+28 NS   EW  4S=      N       -620      0
+29 All  EW  3Sx-1    E       -200      0
+30 -    EW  3NT=     W        400     10
+==============================================================================================
+PAIR 4 JOSEF NOVOTNÝ & JIRI ZERZAN                
+Klub Kladno-Kralupy   Libochovièky 08.04.2026 Session 1  Section A                             
+XImps/Comparisons Factored 6        Session Rank 2  
+==============================================================================================
+Bd Vul Dir Contract By Lead Score  XImps  /Round   Opps
+ 1 -    NS  4S-2     E        100     -9     -13   Jiri Cervenka & Zdenek Muzik
+ 2 NS   NS  4S-3     E        150      3
+ 3 EW   NS  3S+2     W       -200     10
+ 4 All  NS  4S-4     W        400      3
+ 5 NS   NS  5C-1     N       -100     -9
+ 6 EW   NS  4H+3     S        510    -11
+ 7 All  NS  2NT-1    E        100      0
+ 8 -    NS  3NT=     W       -400      1
+ 9 EW   NS  4H-1     E        100      9
+10 All  NS  4S+1     W       -650    -10
+11 -    NS  2S=      S        110      0      38   Jolana Hejduková & Zdenek Lastovièka
+12 NS   NS  2H+1     W       -140      0
+13 All  NS  4H+2     S        680      0
+14 -    NS  4S-1     E         50      3
+15 NS   NS  4H=      S        620     10
+16 EW   NS  2S-1     N        -50      3
+17 -    NS  3C-3     W        150      3
+18 NS   NS  4H+1     E       -450      0
+19 EW   NS  4H+1     S        450     11
+20 All  NS  3D+2     N        150      8
+21 NS   NS  4S+1     N        650      0     -19   Jan Kala & Miroslav Kyn
+22 EW   NS  2S=      N        110     -2
+23 All  NS  2NT+2    W       -180     -1
+24 -    NS  2NT+1    S        150     -7
+25 EW   NS  3NT+1    E       -630      1
+26 All  NS  4H-1     S       -100      0
+27 -    NS  4S-2     E        100      0
+28 NS   NS  4S=      N        620      0
+29 All  NS  3Sx-1    E        200      0
+30 -    NS  3NT=     W       -400    -10
