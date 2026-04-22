@@ -1,0 +1,369 @@
+Klub Kladno-Kralupy   Libochovièky 25.02.2026
+
+2 Table 30 Board Howell Movement  
+Director: Zdenek  Scorer: Zdenek   Received 60 of 60 scores.
+==================================================================
+Rank Pair Names [OVERALL RANKS]                       Bds    XImpC
+==================================================================
+  1    3  Eva Fortova & Tomas Fort                     30    39,00
+  2    4  Josef Novotný & Jiri Zerzan                  30     5,00
+  3    1  Jiri Cervenka & Zdenek Muzik                 30    -3,00
+  4    2  Jolana Hejduková & Zdenek Lastovièka         30   -41,00
+==================================================================
+(printed 22:38:01 25.02.2026 PairsScorer7.3.6(c) JAS
+
+ =====================================================
+ BOARD 1                                              
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  4S+1      N          450           -1       1  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  4S+2      S          480            1      -1  Jolana Hejduková & Zdenek Lastovièka  Eva Fortova & Tomas Fort              
+ =====================================================
+ =====================================================
+ BOARD 2                                              
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  3C-1      S               100      -8       8  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  2H+4      N          230            8      -8  Jolana Hejduková & Zdenek Lastovièka  Eva Fortova & Tomas Fort              
+ =====================================================
+ =====================================================
+ BOARD 3                                              
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  4H-2      N               100       0       0  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  3H-2      S               100       0       0  Jolana Hejduková & Zdenek Lastovièka  Eva Fortova & Tomas Fort              
+ =====================================================
+ =====================================================
+ BOARD 4                                              
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  4Sx-2     N               500       3      -3  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  4H=       W               620      -3       3  Jolana Hejduková & Zdenek Lastovièka  Eva Fortova & Tomas Fort              
+ =====================================================
+ =====================================================
+ BOARD 5                                              
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  2S=       N          110            5      -5  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  4S-1      N               100      -5       5  Jolana Hejduková & Zdenek Lastovièka  Eva Fortova & Tomas Fort              
+ =====================================================
+ =====================================================
+ BOARD 6                                              
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  4Hx-3     N               500       4      -4  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  3NT+2     E               660      -4       4  Jolana Hejduková & Zdenek Lastovièka  Eva Fortova & Tomas Fort              
+ =====================================================
+ =====================================================
+ BOARD 7                                              
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  4S+2      S          680            0       0  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  4S+2      N          680            0       0  Jolana Hejduková & Zdenek Lastovièka  Eva Fortova & Tomas Fort              
+ =====================================================
+ =====================================================
+ BOARD 8                                              
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  4Sx-2     W          300           12     -12  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  5C=       E               400     -12      12  Jolana Hejduková & Zdenek Lastovièka  Eva Fortova & Tomas Fort              
+ =====================================================
+ =====================================================
+ BOARD 9                                              
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  4S+1      S          450            6      -6  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  5C-2      E          200           -6       6  Jolana Hejduková & Zdenek Lastovièka  Eva Fortova & Tomas Fort              
+ =====================================================
+ =====================================================
+ BOARD 10                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  4S+1      N          650            1      -1  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  4S=       N          620           -1       1  Jolana Hejduková & Zdenek Lastovièka  Eva Fortova & Tomas Fort              
+ =====================================================
+ =====================================================
+ BOARD 11                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  4S-1      W           50            0       0  Josef Novotný & Jiri Zerzan           Jolana Hejduková & Zdenek Lastovièka  
+  3   1  4S-1      W           50            0       0  Eva Fortova & Tomas Fort              Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 12                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  2H=       E               110       5      -5  Josef Novotný & Jiri Zerzan           Jolana Hejduková & Zdenek Lastovièka  
+  3   1  4S-3      N               300      -5       5  Eva Fortova & Tomas Fort              Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 13                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  4H+1      E               650       0       0  Josef Novotný & Jiri Zerzan           Jolana Hejduková & Zdenek Lastovièka  
+  3   1  4H+1      E               650       0       0  Eva Fortova & Tomas Fort              Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 14                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  4S-1      S                50     -10      10  Josef Novotný & Jiri Zerzan           Jolana Hejduková & Zdenek Lastovièka  
+  3   1  4S=       S          420           10     -10  Eva Fortova & Tomas Fort              Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 15                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  4S-1      W           50           11     -11  Josef Novotný & Jiri Zerzan           Jolana Hejduková & Zdenek Lastovièka  
+  3   1  4S+1      W               450     -11      11  Eva Fortova & Tomas Fort              Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 16                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  4S+3      S          510            0       0  Josef Novotný & Jiri Zerzan           Jolana Hejduková & Zdenek Lastovièka  
+  3   1  4S+3      S          510            0       0  Eva Fortova & Tomas Fort              Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 17                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  4S+2      W               480       1      -1  Josef Novotný & Jiri Zerzan           Jolana Hejduková & Zdenek Lastovièka  
+  3   1  4S+3      W               510      -1       1  Eva Fortova & Tomas Fort              Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 18                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  3NT=      N          600           -1       1  Josef Novotný & Jiri Zerzan           Jolana Hejduková & Zdenek Lastovièka  
+  3   1  4S=       N          620            1      -1  Eva Fortova & Tomas Fort              Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 19                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  1NT=      N           90            5      -5  Josef Novotný & Jiri Zerzan           Jolana Hejduková & Zdenek Lastovièka  
+  3   1  2C+1      E               110      -5       5  Eva Fortova & Tomas Fort              Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 20                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  4S+2      W               680     -10      10  Josef Novotný & Jiri Zerzan           Jolana Hejduková & Zdenek Lastovièka  
+  3   1  5Hx-1     S               200      10     -10  Eva Fortova & Tomas Fort              Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 21                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  3D+1      E               130     -10      10  Josef Novotný & Jiri Zerzan           Eva Fortova & Tomas Fort              
+  1   2  5Dx-2     E          300           10     -10  Jiri Cervenka & Zdenek Muzik          Jolana Hejduková & Zdenek Lastovièka  
+ =====================================================
+ =====================================================
+ BOARD 22                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  3NT=      S          400           -1       1  Josef Novotný & Jiri Zerzan           Eva Fortova & Tomas Fort              
+  1   2  4H=       N          420            1      -1  Jiri Cervenka & Zdenek Muzik          Jolana Hejduková & Zdenek Lastovièka  
+ =====================================================
+ =====================================================
+ BOARD 23                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  4S+2      W               680      -1       1  Josef Novotný & Jiri Zerzan           Eva Fortova & Tomas Fort              
+  1   2  4S+1      E               650       1      -1  Jiri Cervenka & Zdenek Muzik          Jolana Hejduková & Zdenek Lastovièka  
+ =====================================================
+ =====================================================
+ BOARD 24                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  2S-1      S                50       0       0  Josef Novotný & Jiri Zerzan           Eva Fortova & Tomas Fort              
+  1   2  2S-1      S                50       0       0  Jiri Cervenka & Zdenek Muzik          Jolana Hejduková & Zdenek Lastovièka  
+ =====================================================
+ =====================================================
+ BOARD 25                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  5H=       W               650      -8       8  Josef Novotný & Jiri Zerzan           Eva Fortova & Tomas Fort              
+  1   2  4Sx-2     N               300       8      -8  Jiri Cervenka & Zdenek Muzik          Jolana Hejduková & Zdenek Lastovièka  
+ =====================================================
+ =====================================================
+ BOARD 26                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  4S+2      S          680            0       0  Josef Novotný & Jiri Zerzan           Eva Fortova & Tomas Fort              
+  1   2  4S+2      N          680            0       0  Jiri Cervenka & Zdenek Muzik          Jolana Hejduková & Zdenek Lastovièka  
+ =====================================================
+ =====================================================
+ BOARD 27                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  3H-1      E           50            5      -5  Josef Novotný & Jiri Zerzan           Eva Fortova & Tomas Fort              
+  1   2  3H=       E               140      -5       5  Jiri Cervenka & Zdenek Muzik          Jolana Hejduková & Zdenek Lastovièka  
+ =====================================================
+ =====================================================
+ BOARD 28                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  4S=       W               420       0       0  Josef Novotný & Jiri Zerzan           Eva Fortova & Tomas Fort              
+  1   2  4S=       W               420       0       0  Jiri Cervenka & Zdenek Muzik          Jolana Hejduková & Zdenek Lastovièka  
+ =====================================================
+ =====================================================
+ BOARD 29                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  4S-1      W          100            6      -6  Josef Novotný & Jiri Zerzan           Eva Fortova & Tomas Fort              
+  1   2  2S+1      E               140      -6       6  Jiri Cervenka & Zdenek Muzik          Jolana Hejduková & Zdenek Lastovièka  
+ =====================================================
+ =====================================================
+ BOARD 30                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  3C+2      W               150      -9       9  Josef Novotný & Jiri Zerzan           Eva Fortova & Tomas Fort              
+  1   2  3NT-5     E          250            9      -9  Jiri Cervenka & Zdenek Muzik          Jolana Hejduková & Zdenek Lastovièka  
+ =====================================================
+
+==============================================================================================
+PAIR 1 JIRI CERVENKA & ZDENEK MUZIK               
+Klub Kladno-Kralupy   Libochovièky 25.02.2026 Session 1  Section A                             
+XImps/Comparisons Factored -3       Session Rank 3  
+==============================================================================================
+Bd Vul Dir Contract By Lead Score  XImps  /Round   Opps
+ 1 -    EW  4S+1     N       -450      1     -22   Josef Novotný & Jiri Zerzan
+ 2 NS   EW  3C-1     S        100      8
+ 3 EW   EW  4H-2     N        100      0
+ 4 All  EW  4Sx-2    N        500     -3
+ 5 NS   EW  2S=      N       -110     -5
+ 6 EW   EW  4Hx-3    N        500     -4
+ 7 All  EW  4S+2     S       -680      0
+ 8 -    EW  4Sx-2    W       -300    -12
+ 9 EW   EW  4S+1     S       -450     -6
+10 All  EW  4S+1     N       -650     -1
+11 -    EW  4S-1     W        -50      0       1   Eva Fortova & Tomas Fort
+12 NS   EW  4S-3     N        300      5
+13 All  EW  4H+1     E        650      0
+14 -    EW  4S=      S       -420    -10
+15 NS   EW  4S+1     W        450     11
+16 EW   EW  4S+3     S       -510      0
+17 -    EW  4S+3     W        510      1
+18 NS   EW  4S=      N       -620     -1
+19 EW   EW  2C+1     E        110      5
+20 All  EW  5Hx-1    S        200    -10
+21 NS   NS  5Dx-2    E        300     10      18   Jolana Hejduková & Zdenek Lastovièka
+22 EW   NS  4H=      N        420      1
+23 All  NS  4S+1     E       -650      1
+24 -    NS  2S-1     S        -50      0
+25 EW   NS  4Sx-2    N       -300      8
+26 All  NS  4S+2     N        680      0
+27 -    NS  3H=      E       -140     -5
+28 NS   NS  4S=      W       -420      0
+29 All  NS  2S+1     E       -140     -6
+30 -    NS  3NT-5    E        250      9
+==============================================================================================
+PAIR 2 JOLANA HEJDUKOVÁ & ZDENEK LASTOVIÈKA       
+Klub Kladno-Kralupy   Libochovièky 25.02.2026 Session 1  Section A                             
+XImps/Comparisons Factored -41      Session Rank 4  
+==============================================================================================
+Bd Vul Dir Contract By Lead Score  XImps  /Round   Opps
+ 1 -    NS  4S+2     S        480      1     -22   Eva Fortova & Tomas Fort
+ 2 NS   NS  2H+4     N        230      8
+ 3 EW   NS  3H-2     S       -100      0
+ 4 All  NS  4H=      W       -620     -3
+ 5 NS   NS  4S-1     N       -100     -5
+ 6 EW   NS  3NT+2    E       -660     -4
+ 7 All  NS  4S+2     N        680      0
+ 8 -    NS  5C=      E       -400    -12
+ 9 EW   NS  5C-2     E        200     -6
+10 All  NS  4S=      N        620     -1
+11 -    EW  4S-1     W        -50      0      -1   Josef Novotný & Jiri Zerzan
+12 NS   EW  2H=      E        110     -5
+13 All  EW  4H+1     E        650      0
+14 -    EW  4S-1     S         50     10
+15 NS   EW  4S-1     W        -50    -11
+16 EW   EW  4S+3     S       -510      0
+17 -    EW  4S+2     W        480     -1
+18 NS   EW  3NT=     N       -600      1
+19 EW   EW  1NT=     N        -90     -5
+20 All  EW  4S+2     W        680     10
+21 NS   EW  5Dx-2    E       -300    -10     -18   Jiri Cervenka & Zdenek Muzik
+22 EW   EW  4H=      N       -420     -1
+23 All  EW  4S+1     E        650     -1
+24 -    EW  2S-1     S         50      0
+25 EW   EW  4Sx-2    N        300     -8
+26 All  EW  4S+2     N       -680      0
+27 -    EW  3H=      E        140      5
+28 NS   EW  4S=      W        420      0
+29 All  EW  2S+1     E        140      6
+30 -    EW  3NT-5    E       -250     -9
+==============================================================================================
+PAIR 3 EVA FORTOVA & TOMAS FORT                   
+Klub Kladno-Kralupy   Libochovièky 25.02.2026 Session 1  Section A                             
+XImps/Comparisons Factored 39       Session Rank 1  
+==============================================================================================
+Bd Vul Dir Contract By Lead Score  XImps  /Round   Opps
+ 1 -    EW  4S+2     S       -480     -1      22   Jolana Hejduková & Zdenek Lastovièka
+ 2 NS   EW  2H+4     N       -230     -8
+ 3 EW   EW  3H-2     S        100      0
+ 4 All  EW  4H=      W        620      3
+ 5 NS   EW  4S-1     N        100      5
+ 6 EW   EW  3NT+2    E        660      4
+ 7 All  EW  4S+2     N       -680      0
+ 8 -    EW  5C=      E        400     12
+ 9 EW   EW  5C-2     E       -200      6
+10 All  EW  4S=      N       -620      1
+11 -    NS  4S-1     W         50      0      -1   Jiri Cervenka & Zdenek Muzik
+12 NS   NS  4S-3     N       -300     -5
+13 All  NS  4H+1     E       -650      0
+14 -    NS  4S=      S        420     10
+15 NS   NS  4S+1     W       -450    -11
+16 EW   NS  4S+3     S        510      0
+17 -    NS  4S+3     W       -510     -1
+18 NS   NS  4S=      N        620      1
+19 EW   NS  2C+1     E       -110     -5
+20 All  NS  5Hx-1    S       -200     10
+21 NS   EW  3D+1     E        130     10      18   Josef Novotný & Jiri Zerzan
+22 EW   EW  3NT=     S       -400      1
+23 All  EW  4S+2     W        680      1
+24 -    EW  2S-1     S         50      0
+25 EW   EW  5H=      W        650      8
+26 All  EW  4S+2     S       -680      0
+27 -    EW  3H-1     E        -50     -5
+28 NS   EW  4S=      W        420      0
+29 All  EW  4S-1     W       -100     -6
+30 -    EW  3C+2     W        150      9
+==============================================================================================
+PAIR 4 JOSEF NOVOTNÝ & JIRI ZERZAN                
+Klub Kladno-Kralupy   Libochovièky 25.02.2026 Session 1  Section A                             
+XImps/Comparisons Factored 5        Session Rank 2  
+==============================================================================================
+Bd Vul Dir Contract By Lead Score  XImps  /Round   Opps
+ 1 -    NS  4S+1     N        450     -1      22   Jiri Cervenka & Zdenek Muzik
+ 2 NS   NS  3C-1     S       -100     -8
+ 3 EW   NS  4H-2     N       -100      0
+ 4 All  NS  4Sx-2    N       -500      3
+ 5 NS   NS  2S=      N        110      5
+ 6 EW   NS  4Hx-3    N       -500      4
+ 7 All  NS  4S+2     S        680      0
+ 8 -    NS  4Sx-2    W        300     12
+ 9 EW   NS  4S+1     S        450      6
+10 All  NS  4S+1     N        650      1
+11 -    NS  4S-1     W         50      0       1   Jolana Hejduková & Zdenek Lastovièka
+12 NS   NS  2H=      E       -110      5
+13 All  NS  4H+1     E       -650      0
+14 -    NS  4S-1     S        -50    -10
+15 NS   NS  4S-1     W         50     11
+16 EW   NS  4S+3     S        510      0
+17 -    NS  4S+2     W       -480      1
+18 NS   NS  3NT=     N        600     -1
+19 EW   NS  1NT=     N         90      5
+20 All  NS  4S+2     W       -680    -10
+21 NS   NS  3D+1     E       -130    -10     -18   Eva Fortova & Tomas Fort
+22 EW   NS  3NT=     S        400     -1
+23 All  NS  4S+2     W       -680     -1
+24 -    NS  2S-1     S        -50      0
+25 EW   NS  5H=      W       -650     -8
+26 All  NS  4S+2     S        680      0
+27 -    NS  3H-1     E         50      5
+28 NS   NS  4S=      W       -420      0
+29 All  NS  4S-1     W        100      6
+30 -    NS  3C+2     W       -150     -9
