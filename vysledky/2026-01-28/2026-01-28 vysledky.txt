@@ -1,0 +1,369 @@
+Klub Kladno-Kralupy   Libochovièky 28.01.2026
+
+2 Table 30 Board Howell Movement  
+Director: Zdenek  Scorer: Zdenek   Received 60 of 60 scores.
+==================================================================
+Rank Pair Names [OVERALL RANKS]                       Bds    XImpC
+==================================================================
+  1    1  Jiri Cervenka & Zdenek Muzik                 30    31,00
+  2    4  Josef Novotný & Jiri Zerzan                  30    19,00
+  3    2  Boris Kubicek & Jan Malinsky                 30   -13,00
+  4    3  Tomáš Hellebrand & Miroslav Kyn              30   -37,00
+==================================================================
+(printed 23:02:53 28.01.2026 PairsScorer7.3.6(c) JAS
+
+ =====================================================
+ BOARD 1                                              
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  4S+1      N          450           11     -11  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  6S-1      N                50     -11      11  Boris Kubicek & Jan Malinsky          Tomáš Hellebrand & Miroslav Kyn       
+ =====================================================
+ =====================================================
+ BOARD 2                                              
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  2C+1      W               110       7      -7  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  3NT=      W               400      -7       7  Boris Kubicek & Jan Malinsky          Tomáš Hellebrand & Miroslav Kyn       
+ =====================================================
+ =====================================================
+ BOARD 3                                              
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  2S+1      E               140      -8       8  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  2NT+2     S          180            8      -8  Boris Kubicek & Jan Malinsky          Tomáš Hellebrand & Miroslav Kyn       
+ =====================================================
+ =====================================================
+ BOARD 4                                              
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  5C+1      S          620           -1       1  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  5D+2      S          640            1      -1  Boris Kubicek & Jan Malinsky          Tomáš Hellebrand & Miroslav Kyn       
+ =====================================================
+ =====================================================
+ BOARD 5                                              
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  4S-1      S               100     -12      12  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  3NT=      N          600           12     -12  Boris Kubicek & Jan Malinsky          Tomáš Hellebrand & Miroslav Kyn       
+ =====================================================
+ =====================================================
+ BOARD 6                                              
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  4S+2      S          480          -11      11  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  6S+1      S         1010           11     -11  Boris Kubicek & Jan Malinsky          Tomáš Hellebrand & Miroslav Kyn       
+ =====================================================
+ =====================================================
+ BOARD 7                                              
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  3NT+1     S          630            0       0  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  4H=       N          620            0       0  Boris Kubicek & Jan Malinsky          Tomáš Hellebrand & Miroslav Kyn       
+ =====================================================
+ =====================================================
+ BOARD 8                                              
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  3NT=      E               400       2      -2  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  3NT+2     E               460      -2       2  Boris Kubicek & Jan Malinsky          Tomáš Hellebrand & Miroslav Kyn       
+ =====================================================
+ =====================================================
+ BOARD 9                                              
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  4S+2      E               680     -10      10  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  3S+2      E               200      10     -10  Boris Kubicek & Jan Malinsky          Tomáš Hellebrand & Miroslav Kyn       
+ =====================================================
+ =====================================================
+ BOARD 10                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   1  4S=       N          620           13     -13  Josef Novotný & Jiri Zerzan           Jiri Cervenka & Zdenek Muzik          
+  2   3  5Sx-1     N               200     -13      13  Boris Kubicek & Jan Malinsky          Tomáš Hellebrand & Miroslav Kyn       
+ =====================================================
+ =====================================================
+ BOARD 11                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  3NT-1     E           50           10     -10  Josef Novotný & Jiri Zerzan           Boris Kubicek & Jan Malinsky          
+  3   1  4S=       E               420     -10      10  Tomáš Hellebrand & Miroslav Kyn       Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 12                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  3NT=      N          600           12     -12  Josef Novotný & Jiri Zerzan           Boris Kubicek & Jan Malinsky          
+  3   1  2D-1      S               100     -12      12  Tomáš Hellebrand & Miroslav Kyn       Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 13                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  3NT+3     S          690            3      -3  Josef Novotný & Jiri Zerzan           Boris Kubicek & Jan Malinsky          
+  3   1  3NT=      S          600           -3       3  Tomáš Hellebrand & Miroslav Kyn       Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 14                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  4D-3      N               150      -2       2  Josef Novotný & Jiri Zerzan           Boris Kubicek & Jan Malinsky          
+  3   1  4D-2      N               100       2      -2  Tomáš Hellebrand & Miroslav Kyn       Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 15                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  4S-2      E          100          -11      11  Josef Novotný & Jiri Zerzan           Boris Kubicek & Jan Malinsky          
+  3   1  2Hx=      N          670           11     -11  Tomáš Hellebrand & Miroslav Kyn       Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 16                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  4S+1      W               650       0       0  Josef Novotný & Jiri Zerzan           Boris Kubicek & Jan Malinsky          
+  3   1  4S+1      W               650       0       0  Tomáš Hellebrand & Miroslav Kyn       Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 17                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  3S-2      N               100      -2       2  Josef Novotný & Jiri Zerzan           Boris Kubicek & Jan Malinsky          
+  3   1  2S-1      N                50       2      -2  Tomáš Hellebrand & Miroslav Kyn       Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 18                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  2S+1      E               140      -1       1  Josef Novotný & Jiri Zerzan           Boris Kubicek & Jan Malinsky          
+  3   1  2S=       E               110       1      -1  Tomáš Hellebrand & Miroslav Kyn       Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 19                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  2NT-1     S                50       0       0  Josef Novotný & Jiri Zerzan           Boris Kubicek & Jan Malinsky          
+  3   1  2D-1      S                50       0       0  Tomáš Hellebrand & Miroslav Kyn       Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 20                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   2  7NT-1     W          100           16     -16  Josef Novotný & Jiri Zerzan           Boris Kubicek & Jan Malinsky          
+  3   1  6D+1      W              1390     -16      16  Tomáš Hellebrand & Miroslav Kyn       Jiri Cervenka & Zdenek Muzik          
+ =====================================================
+ =====================================================
+ BOARD 21                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  3NT+3     N          690            0       0  Josef Novotný & Jiri Zerzan           Tomáš Hellebrand & Miroslav Kyn       
+  1   2  3NT+3     N          690            0       0  Jiri Cervenka & Zdenek Muzik          Boris Kubicek & Jan Malinsky          
+ =====================================================
+ =====================================================
+ BOARD 22                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  3Hx-4     W*        1100           19     -19  Josef Novotný & Jiri Zerzan           Tomáš Hellebrand & Miroslav Kyn       
+  1   2  5Hx-5     S*             1100     -19      19  Jiri Cervenka & Zdenek Muzik          Boris Kubicek & Jan Malinsky          
+ =====================================================
+ =====================================================
+ BOARD 23                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  2S+3      S          200            1      -1  Josef Novotný & Jiri Zerzan           Tomáš Hellebrand & Miroslav Kyn       
+  1   2  2S+2      S          170           -1       1  Jiri Cervenka & Zdenek Muzik          Boris Kubicek & Jan Malinsky          
+ =====================================================
+ =====================================================
+ BOARD 24                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  2NT+2     W               180       6      -6  Josef Novotný & Jiri Zerzan           Tomáš Hellebrand & Miroslav Kyn       
+  1   2  3NT=      E               400      -6       6  Jiri Cervenka & Zdenek Muzik          Boris Kubicek & Jan Malinsky          
+ =====================================================
+ =====================================================
+ BOARD 25                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  6S=       N          980           11     -11  Josef Novotný & Jiri Zerzan           Tomáš Hellebrand & Miroslav Kyn       
+  1   2  4S=       N          420          -11      11  Jiri Cervenka & Zdenek Muzik          Boris Kubicek & Jan Malinsky          
+ =====================================================
+ =====================================================
+ BOARD 26                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  2S-1      W          100           -7       7  Josef Novotný & Jiri Zerzan           Tomáš Hellebrand & Miroslav Kyn       
+  1   2  4D-4      E          400            7      -7  Jiri Cervenka & Zdenek Muzik          Boris Kubicek & Jan Malinsky          
+ =====================================================
+ =====================================================
+ BOARD 27                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  3NT=      E               400     -10      10  Josef Novotný & Jiri Zerzan           Tomáš Hellebrand & Miroslav Kyn       
+  1   2  3NT-1     E           50           10     -10  Jiri Cervenka & Zdenek Muzik          Boris Kubicek & Jan Malinsky          
+ =====================================================
+ =====================================================
+ BOARD 28                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  4Cx-2     S               500     -12      12  Josef Novotný & Jiri Zerzan           Tomáš Hellebrand & Miroslav Kyn       
+  1   2  4H-2      E          100           12     -12  Jiri Cervenka & Zdenek Muzik          Boris Kubicek & Jan Malinsky          
+ =====================================================
+ =====================================================
+ BOARD 29                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  3NT-1     N               100       0       0  Josef Novotný & Jiri Zerzan           Tomáš Hellebrand & Miroslav Kyn       
+  1   2  1H-1      S               100       0       0  Jiri Cervenka & Zdenek Muzik          Boris Kubicek & Jan Malinsky          
+ =====================================================
+ =====================================================
+ BOARD 30                                             
+ NS  EW  Contract Dec Lead    NS+  NS-   XIMPs   XIMPs  NS                                    EW
+ =====================================================
+  4   3  2H+1      E               140      -5       5  Josef Novotný & Jiri Zerzan           Tomáš Hellebrand & Miroslav Kyn       
+  1   2  4H-1      E           50            5      -5  Jiri Cervenka & Zdenek Muzik          Boris Kubicek & Jan Malinsky          
+ =====================================================
+
+==============================================================================================
+PAIR 1 JIRI CERVENKA & ZDENEK MUZIK               
+Klub Kladno-Kralupy   Libochovièky 28.01.2026 Session 1  Section A                             
+XImps/Comparisons Factored 31       Session Rank 1  
+==============================================================================================
+Bd Vul Dir Contract By Lead Score  XImps  /Round   Opps
+ 1 -    EW  4S+1     N       -450    -11       9   Josef Novotný & Jiri Zerzan
+ 2 NS   EW  2C+1     W        110     -7
+ 3 EW   EW  2S+1     E        140      8
+ 4 All  EW  5C+1     S       -620      1
+ 5 NS   EW  4S-1     S        100     12
+ 6 EW   EW  4S+2     S       -480     11
+ 7 All  EW  3NT+1    S       -630      0
+ 8 -    EW  3NT=     E        400     -2
+ 9 EW   EW  4S+2     E        680     10
+10 All  EW  4S=      N       -620    -13
+11 -    EW  4S=      E        420     10      25   Tomáš Hellebrand & Miroslav Kyn
+12 NS   EW  2D-1     S        100     12
+13 All  EW  3NT=     S       -600      3
+14 -    EW  4D-2     N        100     -2
+15 NS   EW  2Hx=     N       -670    -11
+16 EW   EW  4S+1     W        650      0
+17 -    EW  2S-1     N         50     -2
+18 NS   EW  2S=      E        110     -1
+19 EW   EW  2D-1     S         50      0
+20 All  EW  6D+1     W       1390     16
+21 NS   NS  3NT+3    N        690      0      -3   Boris Kubicek & Jan Malinsky
+22 EW   NS  5Hx-5    S*     -1100    -19
+23 All  NS  2S+2     S        170     -1
+24 -    NS  3NT=     E       -400     -6
+25 EW   NS  4S=      N        420    -11
+26 All  NS  4D-4     E        400      7
+27 -    NS  3NT-1    E         50     10
+28 NS   NS  4H-2     E        100     12
+29 All  NS  1H-1     S       -100      0
+30 -    NS  4H-1     E         50      5
+==============================================================================================
+PAIR 2 BORIS KUBICEK & JAN MALINSKY               
+Klub Kladno-Kralupy   Libochovièky 28.01.2026 Session 1  Section A                             
+XImps/Comparisons Factored -13      Session Rank 3  
+==============================================================================================
+Bd Vul Dir Contract By Lead Score  XImps  /Round   Opps
+ 1 -    NS  6S-1     N        -50    -11       9   Tomáš Hellebrand & Miroslav Kyn
+ 2 NS   NS  3NT=     W       -400     -7
+ 3 EW   NS  2NT+2    S        180      8
+ 4 All  NS  5D+2     S        640      1
+ 5 NS   NS  3NT=     N        600     12
+ 6 EW   NS  6S+1     S       1010     11
+ 7 All  NS  4H=      N        620      0
+ 8 -    NS  3NT+2    E       -460     -2
+ 9 EW   NS  3S+2     E       -200     10
+10 All  NS  5Sx-1    N       -200    -13
+11 -    EW  3NT-1    E        -50    -10     -25   Josef Novotný & Jiri Zerzan
+12 NS   EW  3NT=     N       -600    -12
+13 All  EW  3NT+3    S       -690     -3
+14 -    EW  4D-3     N        150      2
+15 NS   EW  4S-2     E       -100     11
+16 EW   EW  4S+1     W        650      0
+17 -    EW  3S-2     N        100      2
+18 NS   EW  2S+1     E        140      1
+19 EW   EW  2NT-1    S         50      0
+20 All  EW  7NT-1    W       -100    -16
+21 NS   EW  3NT+3    N       -690      0       3   Jiri Cervenka & Zdenek Muzik
+22 EW   EW  5Hx-5    S*      1100     19
+23 All  EW  2S+2     S       -170      1
+24 -    EW  3NT=     E        400      6
+25 EW   EW  4S=      N       -420     11
+26 All  EW  4D-4     E       -400     -7
+27 -    EW  3NT-1    E        -50    -10
+28 NS   EW  4H-2     E       -100    -12
+29 All  EW  1H-1     S        100      0
+30 -    EW  4H-1     E        -50     -5
+==============================================================================================
+PAIR 3 TOMÁŠ HELLEBRAND & MIROSLAV KYN            
+Klub Kladno-Kralupy   Libochovièky 28.01.2026 Session 1  Section A                             
+XImps/Comparisons Factored -37      Session Rank 4  
+==============================================================================================
+Bd Vul Dir Contract By Lead Score  XImps  /Round   Opps
+ 1 -    EW  6S-1     N         50     11      -9   Boris Kubicek & Jan Malinsky
+ 2 NS   EW  3NT=     W        400      7
+ 3 EW   EW  2NT+2    S       -180     -8
+ 4 All  EW  5D+2     S       -640     -1
+ 5 NS   EW  3NT=     N       -600    -12
+ 6 EW   EW  6S+1     S      -1010    -11
+ 7 All  EW  4H=      N       -620      0
+ 8 -    EW  3NT+2    E        460      2
+ 9 EW   EW  3S+2     E        200    -10
+10 All  EW  5Sx-1    N        200     13
+11 -    NS  4S=      E       -420    -10     -25   Jiri Cervenka & Zdenek Muzik
+12 NS   NS  2D-1     S       -100    -12
+13 All  NS  3NT=     S        600     -3
+14 -    NS  4D-2     N       -100      2
+15 NS   NS  2Hx=     N        670     11
+16 EW   NS  4S+1     W       -650      0
+17 -    NS  2S-1     N        -50      2
+18 NS   NS  2S=      E       -110      1
+19 EW   NS  2D-1     S        -50      0
+20 All  NS  6D+1     W      -1390    -16
+21 NS   EW  3NT+3    N       -690      0      -3   Josef Novotný & Jiri Zerzan
+22 EW   EW  3Hx-4    W*     -1100    -19
+23 All  EW  2S+3     S       -200     -1
+24 -    EW  2NT+2    W        180     -6
+25 EW   EW  6S=      N       -980    -11
+26 All  EW  2S-1     W       -100      7
+27 -    EW  3NT=     E        400     10
+28 NS   EW  4Cx-2    S        500     12
+29 All  EW  3NT-1    N        100      0
+30 -    EW  2H+1     E        140      5
+==============================================================================================
+PAIR 4 JOSEF NOVOTNÝ & JIRI ZERZAN                
+Klub Kladno-Kralupy   Libochovièky 28.01.2026 Session 1  Section A                             
+XImps/Comparisons Factored 19       Session Rank 2  
+==============================================================================================
+Bd Vul Dir Contract By Lead Score  XImps  /Round   Opps
+ 1 -    NS  4S+1     N        450     11      -9   Jiri Cervenka & Zdenek Muzik
+ 2 NS   NS  2C+1     W       -110      7
+ 3 EW   NS  2S+1     E       -140     -8
+ 4 All  NS  5C+1     S        620     -1
+ 5 NS   NS  4S-1     S       -100    -12
+ 6 EW   NS  4S+2     S        480    -11
+ 7 All  NS  3NT+1    S        630      0
+ 8 -    NS  3NT=     E       -400      2
+ 9 EW   NS  4S+2     E       -680    -10
+10 All  NS  4S=      N        620     13
+11 -    NS  3NT-1    E         50     10      25   Boris Kubicek & Jan Malinsky
+12 NS   NS  3NT=     N        600     12
+13 All  NS  3NT+3    S        690      3
+14 -    NS  4D-3     N       -150     -2
+15 NS   NS  4S-2     E        100    -11
+16 EW   NS  4S+1     W       -650      0
+17 -    NS  3S-2     N       -100     -2
+18 NS   NS  2S+1     E       -140     -1
+19 EW   NS  2NT-1    S        -50      0
+20 All  NS  7NT-1    W        100     16
+21 NS   NS  3NT+3    N        690      0       3   Tomáš Hellebrand & Miroslav Kyn
+22 EW   NS  3Hx-4    W*      1100     19
+23 All  NS  2S+3     S        200      1
+24 -    NS  2NT+2    W       -180      6
+25 EW   NS  6S=      N        980     11
+26 All  NS  2S-1     W        100     -7
+27 -    NS  3NT=     E       -400    -10
+28 NS   NS  4Cx-2    S       -500    -12
+29 All  NS  3NT-1    N       -100      0
+30 -    NS  2H+1     E       -140     -5
