@@ -5,10 +5,11 @@ Director: Zdenek  Scorer: Zdenek   Received 60 of 60 scores.
 ==================================================================
 Rank Pair Names [OVERALL RANKS]                       Bds    XImpC
 ==================================================================
-  1    2  Jan Kala & Miroslav Kyn                      30    62,00
-  2    1  Boris Kubicek & Jan Malinsky                 30    16,00
-  3    3  Jiri Cervenka & Zdenek Muzik                 30     6,00
-  4    4  Josef Novotný & Jiri Zerzan                  30   -84,00
+  1    5  Tomáš Hellebrand                             30    84,00
+  2    2  Jan Kala & Miroslav Kyn                      30    62,00
+  3    1  Boris Kubicek & Jan Malinsky                 30    16,00
+  4    3  Jiri Cervenka & Zdenek Muzik                 30     6,00
+  5    4  Josef Novotný & Jiri Zerzan                  30   -84,00
 ==================================================================
 (printed 22:47:45 13.05.2026 PairsScorer7.3.6(c) JAS
 
