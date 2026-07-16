@@ -6,11 +6,11 @@ Director: Zdenek  Scorer: Zdenek   Received 90 of 90 scores.
 Rank Pair Names [OVERALL RANKS]                       Bds    XImpC
 ==================================================================
   1    2  Martin Dostál & Jaroslav Holý                30    57,00
-  2    4  Boris Kubicek & Jan Malinsky                 30    19,50
+  2    4  Josef Novotný & Jiri Zerzan                  30    19,50
   3    1  Eva Fortova & Tomas Fort                     30    15,00
   4    5  Jiri Cervenka & Zdenek Muzik                 30    -6,00
   5    6  Martin Baumann & Jan Hink                    30   -19,00
-  6    3  Josef Novotný & Jiri Zerzan                  30   -66,50
+  6    3  Boris Kubicek & Jan Malinsky                 30   -66,50
 ==================================================================
 (printed 22:21:14 15.07.2026 PairsScorer7.3.6(c) JAS
 
