@@ -1,0 +1,612 @@
+Libochovicky 10/7/2026
+
+3 Table 30 Board Howell Movement  
+   Results as played in Libochovicky
+==================================================================
+Rank Pair Names [OVERALL]                             Bds    XImpC
+==================================================================
+  1    2  Tomas Fort & Jaroslav Holy                   30    31.50
+  2    1  Jiri Cervenka & Zdenek Muzik                 30    22.50
+  3    4  Jan Kala & Miroslav Kyn                      30    17.00
+  4    5  Jolana Hejduková & Zdenek Lastovicka         30    -5.00
+  5    3  Boris Kubicek & Jan Malinsky                 30   -23.00
+  6    6  Josef Novotny & Jiri Zerzan                  30   -43.00
+==================================================================
+(printed 11:13:54 PM 10/7/2026 PairsScorer8.1.3(c) JAS
+
+  Results compared to averages of an external tournament (9 tables)
+==================================================================
+Rank Pair Names [OVERALL]                             Bds  ButlerN
+==================================================================
+  1    1  Jiri Cervenka & Zdenek Muzik                 30    41.00
+  2    4  Jan Kala & Miroslav Kyn                      30    25.00
+  3    2  Tomas Fort & Jaroslav Holy                   30    13.00
+  4    5  Jolana Hejduková & Zdenek Lastovicka         30    -6.00
+  5    6  Josef Novotny & Jiri Zerzan                  30   -25.00
+  6    3  Boris Kubicek & Jan Malinsky                 30   -48.00
+==================================================================
+
+board_number	reference_ns_score
+1	-300
+2	540
+3	40
+4	380
+5	-150
+6	50
+7	580
+8	350
+9	-10
+10	-50
+11	-130
+12	-280
+13	-50
+14	330
+15	-40
+16	-480
+17	-80
+18	-60
+19	110
+20	30
+21	-10
+22	460
+23	240
+24	-90
+25	-490
+26	100
+27	-380
+28	-200
+29	-220
+30	-100
+
+
+========================================================
+BOARD 1                                                 
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  3   5  5C-1      E           50            11      -11  Boris Kubicek & Jan Malinsky                Jolana Hejduková & Zdenek Lastovicka        
+  4   2  4S+2      E               480     -5.5      5.5  Jan Kala & Miroslav Kyn                     Tomas Fort & Jaroslav Holy                  
+  6   1  4S+2      E               480     -5.5      5.5  Josef Novotny & Jiri Zerzan                 Jiri Cervenka & Zdenek Muzik                
+========================================================
+
+
+Session 1 Section A
+========================================================
+BOARD 2                                                 
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  3   5  3NT+3     S          690           3.5     -3.5  Boris Kubicek & Jan Malinsky                Jolana Hejduková & Zdenek Lastovicka        
+  4   2  5C+1      S          620           0.5     -0.5  Jan Kala & Miroslav Kyn                     Tomas Fort & Jaroslav Holy                  
+  6   1  4Sx-3     W          500            -4        4  Josef Novotny & Jiri Zerzan                 Jiri Cervenka & Zdenek Muzik                
+========================================================
+
+
+Session 1 Section A
+========================================================
+BOARD 3                                                 
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  3   5  2S+1      W               140     -3.5      3.5  Boris Kubicek & Jan Malinsky                Jolana Hejduková & Zdenek Lastovicka        
+  4   2  3D=       S          110             6       -6  Jan Kala & Miroslav Kyn                     Tomas Fort & Jaroslav Holy                  
+  6   1  2S=       E               110     -2.5      2.5  Josef Novotny & Jiri Zerzan                 Jiri Cervenka & Zdenek Muzik                
+========================================================
+
+
+Session 1 Section A
+========================================================
+BOARD 4                                                 
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  2   3  3NT+1     N          630           5.5     -5.5  Tomas Fort & Jaroslav Holy                  Boris Kubicek & Jan Malinsky                
+  5   4  4S+1      S          650             7       -7  Jolana Hejduková & Zdenek Lastovicka        Jan Kala & Miroslav Kyn                     
+  6   1  4S-1      S               100    -12.5     12.5  Josef Novotny & Jiri Zerzan                 Jiri Cervenka & Zdenek Muzik                
+========================================================
+
+
+Session 1 Section A
+========================================================
+BOARD 5                                                 
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  2   3  1NT=      W                90      4.5     -4.5  Tomas Fort & Jaroslav Holy                  Boris Kubicek & Jan Malinsky                
+  5   4  3NT=      E               400     -6.5      6.5  Jolana Hejduková & Zdenek Lastovicka        Jan Kala & Miroslav Kyn                     
+  6   1  1NT+2     W               150        2       -2  Josef Novotny & Jiri Zerzan                 Jiri Cervenka & Zdenek Muzik                
+========================================================
+
+
+Session 1 Section A
+========================================================
+BOARD 6                                                 
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  2   3  3H-1      W          100           5.5     -5.5  Tomas Fort & Jaroslav Holy                  Boris Kubicek & Jan Malinsky                
+  5   4  2H+1      W               140     -3.5      3.5  Jolana Hejduková & Zdenek Lastovicka        Jan Kala & Miroslav Kyn                     
+  6   1  2H=       W               110       -2        2  Josef Novotny & Jiri Zerzan                 Jiri Cervenka & Zdenek Muzik                
+========================================================
+
+
+Session 1 Section A
+========================================================
+BOARD 7                                                 
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  4   1  4H+1      S          650             0        0  Jan Kala & Miroslav Kyn                     Jiri Cervenka & Zdenek Muzik                
+  5   3  4H+1      S          650             0        0  Jolana Hejduková & Zdenek Lastovicka        Boris Kubicek & Jan Malinsky                
+  6   2  4H+1      S          650             0        0  Josef Novotny & Jiri Zerzan                 Tomas Fort & Jaroslav Holy                  
+========================================================
+
+
+Session 1 Section A
+========================================================
+BOARD 8                                                 
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  4   1  3NT+1     N          430             1       -1  Jan Kala & Miroslav Kyn                     Jiri Cervenka & Zdenek Muzik                
+  5   3  3NT=      N          400          -0.5      0.5  Jolana Hejduková & Zdenek Lastovicka        Boris Kubicek & Jan Malinsky                
+  6   2  3NT=      N          400          -0.5      0.5  Josef Novotny & Jiri Zerzan                 Tomas Fort & Jaroslav Holy                  
+========================================================
+
+
+Session 1 Section A
+========================================================
+BOARD 9                                                 
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  4   1  3C-3      E          300             9       -9  Jan Kala & Miroslav Kyn                     Jiri Cervenka & Zdenek Muzik                
+  5   3  1S-1      N                50     -2.5      2.5  Jolana Hejduková & Zdenek Lastovicka        Boris Kubicek & Jan Malinsky                
+  6   2  1NT+2     W               150     -6.5      6.5  Josef Novotny & Jiri Zerzan                 Tomas Fort & Jaroslav Holy                  
+========================================================
+
+
+Session 1 Section A
+========================================================
+BOARD 10                                                
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  1   5  5Cx-2     N               500    -10.5     10.5  Jiri Cervenka & Zdenek Muzik                Jolana Hejduková & Zdenek Lastovicka        
+  3   4  4C-1      N               100        2       -2  Boris Kubicek & Jan Malinsky                Jan Kala & Miroslav Kyn                     
+  6   2  3H-1      E          100           8.5     -8.5  Josef Novotny & Jiri Zerzan                 Tomas Fort & Jaroslav Holy                  
+========================================================
+
+
+Session 1 Section A
+========================================================
+BOARD 11                                                
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  1   5  4D=       N          130             1       -1  Jiri Cervenka & Zdenek Muzik                Jolana Hejduková & Zdenek Lastovicka        
+  3   4  3D=       N          110          -0.5      0.5  Boris Kubicek & Jan Malinsky                Jan Kala & Miroslav Kyn                     
+  6   2  3D=       N          110          -0.5      0.5  Josef Novotny & Jiri Zerzan                 Tomas Fort & Jaroslav Holy                  
+========================================================
+
+
+Session 1 Section A
+========================================================
+BOARD 12                                                
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  1   5  7NTx-5    W         1100            17      -17  Jiri Cervenka & Zdenek Muzik                Jolana Hejduková & Zdenek Lastovicka        
+  3   4  4H+1      W               450     -8.5      8.5  Boris Kubicek & Jan Malinsky                Jan Kala & Miroslav Kyn                     
+  6   2  4H+1      W               450     -8.5      8.5  Josef Novotny & Jiri Zerzan                 Tomas Fort & Jaroslav Holy                  
+========================================================
+
+
+Session 1 Section A
+========================================================
+BOARD 13                                                
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  1   4  5Cx=      N          750            14      -14  Jiri Cervenka & Zdenek Muzik                Jan Kala & Miroslav Kyn                     
+  5   2  5Cx-1     N               200       -7        7  Jolana Hejduková & Zdenek Lastovicka        Tomas Fort & Jaroslav Holy                  
+  6   3  5Cx-1     N               200       -7        7  Josef Novotny & Jiri Zerzan                 Boris Kubicek & Jan Malinsky                
+========================================================
+
+
+Session 1 Section A
+========================================================
+BOARD 14                                                
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  1   4  3NT+2     N          460           1.5     -1.5  Jiri Cervenka & Zdenek Muzik                Jan Kala & Miroslav Kyn                     
+  5   2  3NT+1     N          430             0        0  Jolana Hejduková & Zdenek Lastovicka        Tomas Fort & Jaroslav Holy                  
+  6   3  3NT=      N          400          -1.5      1.5  Josef Novotny & Jiri Zerzan                 Boris Kubicek & Jan Malinsky                
+========================================================
+
+
+Session 1 Section A
+========================================================
+BOARD 15                                                
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  1   4  3H=       E               140       -3        3  Jiri Cervenka & Zdenek Muzik                Jan Kala & Miroslav Kyn                     
+  5   2  4H-1      E           50             5       -5  Jolana Hejduková & Zdenek Lastovicka        Tomas Fort & Jaroslav Holy                  
+  6   3  1NT+1     E               120       -2        2  Josef Novotny & Jiri Zerzan                 Boris Kubicek & Jan Malinsky                
+========================================================
+
+
+Session 1 Section A
+========================================================
+BOARD 16                                                
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  2   1  2S+2      E               170     -5.5      5.5  Tomas Fort & Jaroslav Holy                  Jiri Cervenka & Zdenek Muzik                
+  4   5  5C-2      S               100     -2.5      2.5  Jan Kala & Miroslav Kyn                     Jolana Hejduková & Zdenek Lastovicka        
+  6   3  5Sx-1     E          200             8       -8  Josef Novotny & Jiri Zerzan                 Boris Kubicek & Jan Malinsky                
+========================================================
+
+
+Session 1 Section A
+========================================================
+BOARD 17                                                
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  2   1  3H-2      N               100        1       -1  Tomas Fort & Jaroslav Holy                  Jiri Cervenka & Zdenek Muzik                
+  4   5  4H-2      S               100        1       -1  Jan Kala & Miroslav Kyn                     Jolana Hejduková & Zdenek Lastovicka        
+  6   3  4D+1      E               150       -2        2  Josef Novotny & Jiri Zerzan                 Boris Kubicek & Jan Malinsky                
+========================================================
+
+
+Session 1 Section A
+========================================================
+BOARD 18                                                
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  2   1  5Cx-1     N*              200     -3.5      3.5  Tomas Fort & Jaroslav Holy                  Jiri Cervenka & Zdenek Muzik                
+  4   5                        Pass         4.5     -4.5  Jan Kala & Miroslav Kyn                     Jolana Hejduková & Zdenek Lastovicka        
+  6   3  4C=       W*              130       -1        1  Josef Novotny & Jiri Zerzan                 Boris Kubicek & Jan Malinsky                
+========================================================
+
+
+Session 1 Section A
+========================================================
+BOARD 19                                                
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  1   3  4D+1      N          150          -3.5      3.5  Jiri Cervenka & Zdenek Muzik                Boris Kubicek & Jan Malinsky                
+  2   5  3NT+2     N          460             7       -7  Tomas Fort & Jaroslav Holy                  Jolana Hejduková & Zdenek Lastovicka        
+  6   4  4D+1      N          150          -3.5      3.5  Josef Novotny & Jiri Zerzan                 Jan Kala & Miroslav Kyn                     
+========================================================
+
+
+Session 1 Section A
+========================================================
+BOARD 20                                                
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  1   3  3H=       S          140             0        0  Jiri Cervenka & Zdenek Muzik                Boris Kubicek & Jan Malinsky                
+  2   5  3S=       S          140             0        0  Tomas Fort & Jaroslav Holy                  Jolana Hejduková & Zdenek Lastovicka        
+  6   4  3H=       S          140             0        0  Josef Novotny & Jiri Zerzan                 Jan Kala & Miroslav Kyn                     
+========================================================
+
+
+Session 1 Section A
+========================================================
+BOARD 21                                                
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  1   3  2S-2      N               200     -3.5      3.5  Jiri Cervenka & Zdenek Muzik                Boris Kubicek & Jan Malinsky                
+  2   5  2S-2      N               200     -3.5      3.5  Tomas Fort & Jaroslav Holy                  Jolana Hejduková & Zdenek Lastovicka        
+  6   4  2H-2      W          100             7       -7  Josef Novotny & Jiri Zerzan                 Jan Kala & Miroslav Kyn                     
+========================================================
+
+
+Session 1 Section A
+========================================================
+BOARD 22                                                
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  3   2  4S+1      N          450           5.5     -5.5  Boris Kubicek & Jan Malinsky                Tomas Fort & Jaroslav Holy                  
+  5   1  4S+1      S          450           5.5     -5.5  Jolana Hejduková & Zdenek Lastovicka        Jiri Cervenka & Zdenek Muzik                
+  6   4  6S-1      N                50      -11       11  Josef Novotny & Jiri Zerzan                 Jan Kala & Miroslav Kyn                     
+========================================================
+
+
+Session 1 Section A
+========================================================
+BOARD 23                                                
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  3   2  4S-1      S               100     -9.5      9.5  Boris Kubicek & Jan Malinsky                Tomas Fort & Jaroslav Holy                  
+  5   1  5Dx-2     E          500            10      -10  Jolana Hejduková & Zdenek Lastovicka        Jiri Cervenka & Zdenek Muzik                
+  6   4  3S+1      S          170          -0.5      0.5  Josef Novotny & Jiri Zerzan                 Jan Kala & Miroslav Kyn                     
+========================================================
+
+
+Session 1 Section A
+========================================================
+BOARD 24                                                
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  3   2  5Sx-4     S               800      -15       15  Boris Kubicek & Jan Malinsky                Tomas Fort & Jaroslav Holy                  
+  5   1  5Cx-2     W          300           7.5     -7.5  Jolana Hejduková & Zdenek Lastovicka        Jiri Cervenka & Zdenek Muzik                
+  6   4  5Cx-2     W          300           7.5     -7.5  Josef Novotny & Jiri Zerzan                 Jan Kala & Miroslav Kyn                     
+========================================================
+
+
+Session 1 Section A
+========================================================
+BOARD 25                                                
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  2   4  4H=       E               620        2       -2  Tomas Fort & Jaroslav Holy                  Jan Kala & Miroslav Kyn                     
+  3   1  4H+2      E               680       -1        1  Boris Kubicek & Jan Malinsky                Jiri Cervenka & Zdenek Muzik                
+  6   5  4H+2      E               680       -1        1  Josef Novotny & Jiri Zerzan                 Jolana Hejduková & Zdenek Lastovicka        
+========================================================
+
+
+Session 1 Section A
+========================================================
+BOARD 26                                                
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  2   4  1NT=      W                90     -2.5      2.5  Tomas Fort & Jaroslav Holy                  Jan Kala & Miroslav Kyn                     
+  3   1  3D-1      N               100     -2.5      2.5  Boris Kubicek & Jan Malinsky                Jiri Cervenka & Zdenek Muzik                
+  6   5  1NT-1     W          100             5       -5  Josef Novotny & Jiri Zerzan                 Jolana Hejduková & Zdenek Lastovicka        
+========================================================
+
+
+Session 1 Section A
+========================================================
+BOARD 27                                                
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  2   4  4S+1      W               450     -0.5      0.5  Tomas Fort & Jaroslav Holy                  Jan Kala & Miroslav Kyn                     
+  3   1  4S+1      W               450     -0.5      0.5  Boris Kubicek & Jan Malinsky                Jiri Cervenka & Zdenek Muzik                
+  6   5  4S=       E               420        1       -1  Josef Novotny & Jiri Zerzan                 Jolana Hejduková & Zdenek Lastovicka        
+========================================================
+
+
+Session 1 Section A
+========================================================
+BOARD 28                                                
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  1   2  3NT=      E               400     -8.5      8.5  Jiri Cervenka & Zdenek Muzik                Tomas Fort & Jaroslav Holy                  
+  4   3  3NT-1     E           50             7       -7  Jan Kala & Miroslav Kyn                     Boris Kubicek & Jan Malinsky                
+  6   5  3D=       W               110      1.5     -1.5  Josef Novotny & Jiri Zerzan                 Jolana Hejduková & Zdenek Lastovicka        
+========================================================
+
+
+Session 1 Section A
+========================================================
+BOARD 29                                                
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  1   2  4S-1      W          100             6       -6  Jiri Cervenka & Zdenek Muzik                Tomas Fort & Jaroslav Holy                  
+  4   3  4S-1      W          100             6       -6  Jan Kala & Miroslav Kyn                     Boris Kubicek & Jan Malinsky                
+  6   5  4S=       W               620      -12       12  Josef Novotny & Jiri Zerzan                 Jolana Hejduková & Zdenek Lastovicka        
+========================================================
+
+
+Session 1 Section A
+========================================================
+BOARD 30                                                
+ NS  EW  Contract Dec Lead    NS+  NS-    XIMPs    XIMPs  NS                                          EW
+========================================================
+  1   2  3NT-2     W          100           8.5     -8.5  Jiri Cervenka & Zdenek Muzik                Tomas Fort & Jaroslav Holy                  
+  4   3  4S=       E               420       -9        9  Jan Kala & Miroslav Kyn                     Boris Kubicek & Jan Malinsky                
+  6   5  2S+1      E               140      0.5     -0.5  Josef Novotny & Jiri Zerzan                 Jolana Hejduková & Zdenek Lastovicka        
+========================================================
+
+
+
+==============================================================================================
+PAIR 1 JIRI CERVENKA-ZDENEK MUZIK                                                             
+Libochovicky 10/7/2026 Session 1  Section A                             
+XImps/F-Comps 22.5   Session Rank 2                                                           
+==============================================================================================
+Bd Vul Dir Contract By Lead Score  XImps  /Round   Opps
+ 1 -    EW  4S+2     E        480    5.5      12   Josef Novotny/Jiri Zerzan
+ 2 NS   EW  4Sx-3    W       -500      4
+ 3 EW   EW  2S=      E        110    2.5
+ 4 All  EW  4S-1     S        100   12.5    12.5   Josef Novotny/Jiri Zerzan
+ 5 NS   EW  1NT+2    W        150     -2
+ 6 EW   EW  2H=      W        110      2
+ 7 All  EW  4H+1     S       -650      0     -10   Jan Kala/Miroslav Kyn
+ 8 -    EW  3NT+1    N       -430     -1
+ 9 EW   EW  3C-3     E       -300     -9
+10 All  NS  5Cx-2    N       -500  -10.5     7.5   Jolana Hejduková/Zdenek Lastovicka
+11 -    NS  4D=      N        130      1
+12 NS   NS  7NTx-5   W       1100     17
+13 All  NS  5Cx=     N        750     14    12.5   Jan Kala/Miroslav Kyn
+14 -    NS  3NT+2    N        460    1.5
+15 NS   NS  3H=      E       -140     -3
+16 EW   EW  2S+2     E        170    5.5       8   Tomas Fort/Jaroslav Holy
+17 -    EW  3H-2     N        100     -1
+18 NS   EW  5Cx-1    N*       200    3.5
+19 EW   NS  4D+1     N        150   -3.5      -7   Boris Kubicek/Jan Malinsky
+20 All  NS  3H=      S        140      0
+21 NS   NS  2S-2     N       -200   -3.5
+22 EW   EW  4S+1     S       -450   -5.5     -23   Jolana Hejduková/Zdenek Lastovicka
+23 All  EW  5Dx-2    E       -500    -10
+24 -    EW  5Cx-2    W       -300   -7.5
+25 EW   EW  4H+2     E        680      1       4   Boris Kubicek/Jan Malinsky
+26 All  EW  3D-1     N        100    2.5
+27 -    EW  4S+1     W        450    0.5
+28 NS   NS  3NT=     E       -400   -8.5       6   Tomas Fort/Jaroslav Holy
+29 All  NS  4S-1     W        100      6
+30 -    NS  3NT-2    W        100    8.5
+
+==============================================================================================
+PAIR 2 TOMAS FORT-JAROSLAV HOLY                                                               
+Libochovicky 10/7/2026 Session 1  Section A                             
+XImps/F-Comps 31.5   Session Rank 1                                                           
+==============================================================================================
+Bd Vul Dir Contract By Lead Score  XImps  /Round   Opps
+ 1 -    EW  4S+2     E        480    5.5      -1   Jan Kala/Miroslav Kyn
+ 2 NS   EW  5C+1     S       -620   -0.5
+ 3 EW   EW  3D=      S       -110     -6
+ 4 All  NS  3NT+1    N        630    5.5    15.5   Boris Kubicek/Jan Malinsky
+ 5 NS   NS  1NT=     W        -90    4.5
+ 6 EW   NS  3H-1     W        100    5.5
+ 7 All  EW  4H+1     S       -650      0       7   Josef Novotny/Jiri Zerzan
+ 8 -    EW  3NT=     N       -400    0.5
+ 9 EW   EW  1NT+2    W        150    6.5
+10 All  EW  3H-1     E       -100   -8.5     0.5   Josef Novotny/Jiri Zerzan
+11 -    EW  3D=      N       -110    0.5
+12 NS   EW  4H+1     W        450    8.5
+13 All  EW  5Cx-1    N        200      7       2   Jolana Hejduková/Zdenek Lastovicka
+14 -    EW  3NT+1    N       -430      0
+15 NS   EW  4H-1     E        -50     -5
+16 EW   NS  2S+2     E       -170   -5.5      -8   Jiri Cervenka/Zdenek Muzik
+17 -    NS  3H-2     N       -100      1
+18 NS   NS  5Cx-1    N*      -200   -3.5
+19 EW   NS  3NT+2    N        460      7     3.5   Jolana Hejduková/Zdenek Lastovicka
+20 All  NS  3S=      S        140      0
+21 NS   NS  2S-2     N       -200   -3.5
+22 EW   EW  4S+1     N       -450   -5.5      19   Boris Kubicek/Jan Malinsky
+23 All  EW  4S-1     S        100    9.5
+24 -    EW  5Sx-4    S        800     15
+25 EW   NS  4H=      E       -620      2      -1   Jan Kala/Miroslav Kyn
+26 All  NS  1NT=     W        -90   -2.5
+27 -    NS  4S+1     W       -450   -0.5
+28 NS   EW  3NT=     E        400    8.5      -6   Jiri Cervenka/Zdenek Muzik
+29 All  EW  4S-1     W       -100     -6
+30 -    EW  3NT-2    W       -100   -8.5
+
+==============================================================================================
+PAIR 3 BORIS KUBICEK-JAN MALINSKY                                                             
+Libochovicky 10/7/2026 Session 1  Section A                             
+XImps/F-Comps -23    Session Rank 5                                                           
+==============================================================================================
+Bd Vul Dir Contract By Lead Score  XImps  /Round   Opps
+ 1 -    NS  5C-1     E         50     11      11   Jolana Hejduková/Zdenek Lastovicka
+ 2 NS   NS  3NT+3    S        690    3.5
+ 3 EW   NS  2S+1     W       -140   -3.5
+ 4 All  EW  3NT+1    N       -630   -5.5   -15.5   Tomas Fort/Jaroslav Holy
+ 5 NS   EW  1NT=     W         90   -4.5
+ 6 EW   EW  3H-1     W       -100   -5.5
+ 7 All  EW  4H+1     S       -650      0       3   Jolana Hejduková/Zdenek Lastovicka
+ 8 -    EW  3NT=     N       -400    0.5
+ 9 EW   EW  1S-1     N         50    2.5
+10 All  NS  4C-1     N       -100      2      -7   Jan Kala/Miroslav Kyn
+11 -    NS  3D=      N        110   -0.5
+12 NS   NS  4H+1     W       -450   -8.5
+13 All  EW  5Cx-1    N        200      7    10.5   Josef Novotny/Jiri Zerzan
+14 -    EW  3NT=     N       -400    1.5
+15 NS   EW  1NT+1    E        120      2
+16 EW   EW  5Sx-1    E       -200     -8      -5   Josef Novotny/Jiri Zerzan
+17 -    EW  4D+1     E        150      2
+18 NS   EW  4C=      W*       130      1
+19 EW   EW  4D+1     N       -150    3.5       7   Jiri Cervenka/Zdenek Muzik
+20 All  EW  3H=      S       -140      0
+21 NS   EW  2S-2     N        200    3.5
+22 EW   NS  4S+1     N        450    5.5     -19   Tomas Fort/Jaroslav Holy
+23 All  NS  4S-1     S       -100   -9.5
+24 -    NS  5Sx-4    S       -800    -15
+25 EW   NS  4H+2     E       -680     -1      -4   Jiri Cervenka/Zdenek Muzik
+26 All  NS  3D-1     N       -100   -2.5
+27 -    NS  4S+1     W       -450   -0.5
+28 NS   EW  3NT-1    E        -50     -7      -4   Jan Kala/Miroslav Kyn
+29 All  EW  4S-1     W       -100     -6
+30 -    EW  4S=      E        420      9
+
+==============================================================================================
+PAIR 4 JAN KALA-MIROSLAV KYN                                                                  
+Libochovicky 10/7/2026 Session 1  Section A                             
+XImps/F-Comps 17     Session Rank 3                                                           
+==============================================================================================
+Bd Vul Dir Contract By Lead Score  XImps  /Round   Opps
+ 1 -    NS  4S+2     E       -480   -5.5       1   Tomas Fort/Jaroslav Holy
+ 2 NS   NS  5C+1     S        620    0.5
+ 3 EW   NS  3D=      S        110      6
+ 4 All  EW  4S+1     S       -650     -7       3   Jolana Hejduková/Zdenek Lastovicka
+ 5 NS   EW  3NT=     E        400    6.5
+ 6 EW   EW  2H+1     W        140    3.5
+ 7 All  NS  4H+1     S        650      0      10   Jiri Cervenka/Zdenek Muzik
+ 8 -    NS  3NT+1    N        430      1
+ 9 EW   NS  3C-3     E        300      9
+10 All  EW  4C-1     N        100     -2       7   Boris Kubicek/Jan Malinsky
+11 -    EW  3D=      N       -110    0.5
+12 NS   EW  4H+1     W        450    8.5
+13 All  EW  5Cx=     N       -750    -14   -12.5   Jiri Cervenka/Zdenek Muzik
+14 -    EW  3NT+2    N       -460   -1.5
+15 NS   EW  3H=      E        140      3
+16 EW   NS  5C-2     S       -100   -2.5       3   Jolana Hejduková/Zdenek Lastovicka
+17 -    NS  4H-2     S       -100      1
+18 NS   NS                   Pass    4.5
+19 EW   EW  4D+1     N       -150    3.5    -3.5   Josef Novotny/Jiri Zerzan
+20 All  EW  3H=      S       -140      0
+21 NS   EW  2H-2     W       -100     -7
+22 EW   EW  6S-1     N         50     11       4   Josef Novotny/Jiri Zerzan
+23 All  EW  3S+1     S       -170    0.5
+24 -    EW  5Cx-2    W       -300   -7.5
+25 EW   EW  4H=      E        620     -2       1   Tomas Fort/Jaroslav Holy
+26 All  EW  1NT=     W         90    2.5
+27 -    EW  4S+1     W        450    0.5
+28 NS   NS  3NT-1    E         50      7       4   Boris Kubicek/Jan Malinsky
+29 All  NS  4S-1     W        100      6
+30 -    NS  4S=      E       -420     -9
+
+==============================================================================================
+PAIR 5 JOLANA HEJDUKOVÁ-ZDENEK LASTOVICKA                                                     
+Libochovicky 10/7/2026 Session 1  Section A                             
+XImps/F-Comps -5     Session Rank 4                                                           
+==============================================================================================
+Bd Vul Dir Contract By Lead Score  XImps  /Round   Opps
+ 1 -    EW  5C-1     E        -50    -11     -11   Boris Kubicek/Jan Malinsky
+ 2 NS   EW  3NT+3    S       -690   -3.5
+ 3 EW   EW  2S+1     W        140    3.5
+ 4 All  NS  4S+1     S        650      7      -3   Jan Kala/Miroslav Kyn
+ 5 NS   NS  3NT=     E       -400   -6.5
+ 6 EW   NS  2H+1     W       -140   -3.5
+ 7 All  NS  4H+1     S        650      0      -3   Boris Kubicek/Jan Malinsky
+ 8 -    NS  3NT=     N        400   -0.5
+ 9 EW   NS  1S-1     N        -50   -2.5
+10 All  EW  5Cx-2    N        500   10.5    -7.5   Jiri Cervenka/Zdenek Muzik
+11 -    EW  4D=      N       -130     -1
+12 NS   EW  7NTx-5   W      -1100    -17
+13 All  NS  5Cx-1    N       -200     -7      -2   Tomas Fort/Jaroslav Holy
+14 -    NS  3NT+1    N        430      0
+15 NS   NS  4H-1     E         50      5
+16 EW   EW  5C-2     S        100    2.5      -3   Jan Kala/Miroslav Kyn
+17 -    EW  4H-2     S        100     -1
+18 NS   EW                   Pass   -4.5
+19 EW   EW  3NT+2    N       -460     -7    -3.5   Tomas Fort/Jaroslav Holy
+20 All  EW  3S=      S       -140      0
+21 NS   EW  2S-2     N        200    3.5
+22 EW   NS  4S+1     S        450    5.5      23   Jiri Cervenka/Zdenek Muzik
+23 All  NS  5Dx-2    E        500     10
+24 -    NS  5Cx-2    W        300    7.5
+25 EW   EW  4H+2     E        680      1      -5   Josef Novotny/Jiri Zerzan
+26 All  EW  1NT-1    W       -100     -5
+27 -    EW  4S=      E        420     -1
+28 NS   EW  3D=      W        110   -1.5      10   Josef Novotny/Jiri Zerzan
+29 All  EW  4S=      W        620     12
+30 -    EW  2S+1     E        140   -0.5
+
+==============================================================================================
+PAIR 6 JOSEF NOVOTNY-JIRI ZERZAN                                                              
+Libochovicky 10/7/2026 Session 1  Section A                             
+XImps/F-Comps -43    Session Rank 6                                                           
+==============================================================================================
+Bd Vul Dir Contract By Lead Score  XImps  /Round   Opps
+ 1 -    NS  4S+2     E       -480   -5.5     -12   Jiri Cervenka/Zdenek Muzik
+ 2 NS   NS  4Sx-3    W        500     -4
+ 3 EW   NS  2S=      E       -110   -2.5
+ 4 All  NS  4S-1     S       -100  -12.5   -12.5   Jiri Cervenka/Zdenek Muzik
+ 5 NS   NS  1NT+2    W       -150      2
+ 6 EW   NS  2H=      W       -110     -2
+ 7 All  NS  4H+1     S        650      0      -7   Tomas Fort/Jaroslav Holy
+ 8 -    NS  3NT=     N        400   -0.5
+ 9 EW   NS  1NT+2    W       -150   -6.5
+10 All  NS  3H-1     E        100    8.5    -0.5   Tomas Fort/Jaroslav Holy
+11 -    NS  3D=      N        110   -0.5
+12 NS   NS  4H+1     W       -450   -8.5
+13 All  NS  5Cx-1    N       -200     -7   -10.5   Boris Kubicek/Jan Malinsky
+14 -    NS  3NT=     N        400   -1.5
+15 NS   NS  1NT+1    E       -120     -2
+16 EW   NS  5Sx-1    E        200      8       5   Boris Kubicek/Jan Malinsky
+17 -    NS  4D+1     E       -150     -2
+18 NS   NS  4C=      W*      -130     -1
+19 EW   NS  4D+1     N        150   -3.5     3.5   Jan Kala/Miroslav Kyn
+20 All  NS  3H=      S        140      0
+21 NS   NS  2H-2     W        100      7
+22 EW   NS  6S-1     N        -50    -11      -4   Jan Kala/Miroslav Kyn
+23 All  NS  3S+1     S        170   -0.5
+24 -    NS  5Cx-2    W        300    7.5
+25 EW   NS  4H+2     E       -680     -1       5   Jolana Hejduková/Zdenek Lastovicka
+26 All  NS  1NT-1    W        100      5
+27 -    NS  4S=      E       -420      1
+28 NS   NS  3D=      W       -110    1.5     -10   Jolana Hejduková/Zdenek Lastovicka
+29 All  NS  4S=      W       -620    -12
+30 -    NS  2S+1     E       -140    0.5
